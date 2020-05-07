@@ -224,7 +224,7 @@ void Graph::shortestPath()
 		{
 			cout <<" to " << m_adjList[path[n]];
 		}
-		cout << "and back to " << m_adjList[0] << " \nWith " << cheapest <<" miles, Cost(gallons): " << (cheapest/40) << endl;
+		cout << " and back to " << m_adjList[0] << " \nWith " << cheapest <<" miles, Cost(gallons): " << (cheapest/40) << endl;
 }
 
 // Definition of getCost function for Graph class
