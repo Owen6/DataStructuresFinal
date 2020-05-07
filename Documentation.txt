@@ -2,6 +2,8 @@ Andrew Ngo, Owen Boxx
 Professor Erin Keith - CS 302-1001 Fall 2020
 Final Project - Traveling Salesman Problem
 
+Github link: https://github.com/Owen6/DataStructuresFinal.git
+
 For this project, Andrew worked on the Point, Edge, and Vertex classes and Owen worked on the Graph class. We then worked together on the rest, including the main driver, Makefile, etc.
 
 We compiled our classes all into one classes.h file because we had trouble getting them (and their implementations) to work when separated. In doing so, we had trouble getting constructors, getters, and setters to work (except for Graph class) and thus just decided to make all data public to circumvent this.
